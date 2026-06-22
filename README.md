@@ -23,18 +23,6 @@
 
 ---
 
-## 💜 Support DroidHunter
-
-If DroidHunter helps your Android security research, education, or workflow, you can support the project with a small donation.
-
-| Asset | Network | Address |
-|---|---|---|
-| USDT | Ethereum network (ERC-20) | `0x3E79B73e3ce33c6B860425DCB40c6D2f4F2aC508` |
-
-> ⚠️ Only send USDT on the Ethereum network (ERC-20). Sending funds on another network may result in permanent loss.
-
----
-
 ## 📌 Overview
 
 **DroidHunter** is a comprehensive, CLI-based Android security assessment framework targeting ethical hackers and professional penetration testers. It integrates multiple attack surfaces into a single tool with a hacker-aesthetic terminal interface.
@@ -72,7 +60,7 @@ DroidHunter is developed by HexSec Team / HexSec Community for authorized Androi
 # 1. Clone / navigate to the tool directory
 cd /path/to/droidhunter
 # or
-git clone https://github.com/hexsecteam/DroidHunter.git
+git clone https://github.com/iamx-ariful-islam/DroidHunter.git
 
 #2. create a virtual environment
 python -m venv venv 
